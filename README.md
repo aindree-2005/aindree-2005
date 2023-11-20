@@ -51,15 +51,23 @@ Here are some ideas to get you started:
 
 ## My Current Courses
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) - Deep Learning Specialization (deeplearning.ai)
-📫-<h3>College</h3>
+
+<h3>📫College</h3>
 Mathematics 1
+
 Engg Drawing
+
 Basic Electrical Engineering
+
 Basic Electronics
+
 C Programming and Numerical Methods
-📫-<h3>IITM BS Degree</h3>
+
+<h3>📫IITM BS Degree</h3>
 Statistics 1
+
 Mathematics 2
+
 Computational Thinking
 
 ## Languages and Tools
