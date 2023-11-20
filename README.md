@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 
 ## My Badges
 [![LeetCode user aindree2005](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Faindree2005&logo=leetcode&logoColor=yellow)](https://leetcode.com/aindree2005/)
+
+![](https://komarev.com/ghpvc/?username=your-aindree-2005&style=flat-square)
