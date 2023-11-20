@@ -37,11 +37,18 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=your-aindree-2005&style=flat-square)
 
 ## About Me
+👩‍🎓 I'm a first year undergrad in Jadavpur University's dept. of Electronics and Telecomm. Engg.
+
 🔭 I’m currently learning Deep Learning (Convolutional Neural Networks) ,Flask and React
+
 📫 I am interested in Machine Learning, Web Development, Open Source Contributions, and Blockchain
+
 🖌 I also do graphic designing and love to write on various topics from tech to current affairs!
+
 🎵 I love rock and metal. So, if you want to talk about the latest BMTH songs, or want to discuss the history of grunge bands, don't hesitate to contact me!
 
 ## My Current Courses
 ## Languages and Tools
 ## My Stats
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aindree-2005&show_icons=true&theme=synthwave)](https://github.com/aindree-2005/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aindree-2005&langs_count=4)
