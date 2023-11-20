@@ -35,3 +35,13 @@ Here are some ideas to get you started:
 [![LeetCode user aindree2005](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Faindree2005&logo=leetcode&logoColor=yellow)](https://leetcode.com/aindree2005/)
 
 ![](https://komarev.com/ghpvc/?username=your-aindree-2005&style=flat-square)
+
+## About Me
+🔭 I’m currently learning Deep Learning (Convolutional Neural Networks) ,Flask and React
+📫 I am interested in Machine Learning, Web Development, Open Source Contributions, and Blockchain
+🖌 I also do graphic designing and love to write on various topics from tech to current affairs!
+🎵 I love rock and metal. So, if you want to talk about the latest BMTH songs, or want to discuss the history of grunge bands, don't hesitate to contact me!
+
+## My Current Courses
+## Languages and Tools
+## My Stats
