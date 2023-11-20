@@ -22,6 +22,6 @@ Here are some ideas to get you started:
   <a href="[your-twitter-URL](https://twitter.com/aindree2005)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href= [![LeetCode user aindree2005](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Faindree2005&logo=leetcode&logoColor=yellow)](https://leetcode.com/aindree2005/)>
+  <a href= "[LeetCode user aindree2005](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Faindree2005&logo=leetcode&logoColor=yellow)](https://leetcode.com/aindree2005/)">
   </a>
 </div>                                                                                                  ````  
