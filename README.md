@@ -50,6 +50,18 @@ Here are some ideas to get you started:
 🎵 I love rock and metal. So, if you want to talk about the latest BMTH songs, or want to discuss the history of grunge bands, don't hesitate to contact me!
 
 ## My Current Courses
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) - Deep Learning Specialization (deeplearning.ai)
+📫-<h3>College</h3>
+Mathematics 1
+Engg Drawing
+Basic Electrical Engineering
+Basic Electronics
+C Programming and Numerical Methods
+📫-<h3>IITM BS Degree</h3>
+Statistics 1
+Mathematics 2
+Computational Thinking
+
 ## Languages and Tools
 #### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
