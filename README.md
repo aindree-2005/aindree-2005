@@ -82,4 +82,7 @@ Computational Thinking
 
 ## My Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aindree-2005&show_icons=true&theme=synthwave)](https://github.com/aindree-2005/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aindree-2005&langs_count=4)
+[![aindree-2005's GitHub | Stats](https://stats.quine.sh/aindree-2005/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aindree-2005)
+[![aindree-2005's GitHub | Languages Over Time](https://stats.quine.sh/aindree-2005/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aindree-2005)
+[![aindree-2005's GitHub | Topics Over Time](https://stats.quine.sh/aindree-2005/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aindree-2005)
+[![aindree-2005's GitHub | Dependencies](https://stats.quine.sh/aindree-2005/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aindree-2005)
